@@ -1,0 +1,43 @@
+---
+figureTitle: "圖"
+tableTitle: "表"
+figPrefix: "圖"
+eqnPrefix: "式"
+tblPrefix: "表"
+secPrefix: "章節"
+university_zh: 國立虎尾科技大學
+university_en: National Formosa University
+institute_zh:
+institute_en: The Application of 3D Printing Mechatronic Simulation System in the Design Process of uArm Robotic Arm
+category_zh: 專題報告
+category_en: Individual studies
+title_zh: 標題
+title_en: Title
+author_zh: 江建儒、黃暐翰、蕭日傑、江東祐
+author_en: EN name
+advisor_zh: 嚴家銘\hspace{3.51mm}博士
+advisor_en: Ming, Ph.D.
+doi: "doi:10.xxxx/NTU2020xxxxx"
+date_zh: 中華民國 112年 4 月
+date_en: April, 2021
+abstract_zh: |
+  本研究 ...
+
+  &nbsp;
+
+  \noindent
+  關鍵字：
+abstract_en: |
+  About my project ...
+
+  &nbsp;
+
+  \noindent
+  Keywords:
+acknowledgements: |
+  感謝很多人。
+symbols: |
+  | 章節 | 符號 | 說明 |
+  |:----:|:---:|:-----|
+  | 1.1 | $\alpha$ | 阿法 |
+---
